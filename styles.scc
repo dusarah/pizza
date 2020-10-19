@@ -5,3 +5,18 @@ header{
     height: 670px;
     color:black;
    }
+header>div{
+    text-align: center;
+    padding-top: 200px;
+   }
+nav{
+    position: fixed;
+    width:100%;
+    background-color:rgba(105,105,105, 0.6);
+    }
+ul{
+      text-align:right;
+    }
+li{
+      display:inline-block;
+    }
