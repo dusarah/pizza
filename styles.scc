@@ -1,5 +1,7 @@
-header{
+html{
     background-image: url("https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&w=1000&q=80");
+    }
+header{
     background-repeat: no-repeat;
     background-size: cover;
     height: 670px;
