@@ -37,3 +37,78 @@ h1{
         font-size: 80px;
     }
 
+header>div>h3{
+        font-family: Dancing Script;
+        font-weight: bold;
+      }
+#about{
+    line-height: 30px;
+    text-align: center;
+}
+h2{
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: bold;
+}
+#pizza>img{
+    width: 100%;
+    background-color: black;
+}
+#order{
+    background-color: black;
+    height:500px;
+    width:40%;
+    color:white;
+    text-align: center;
+    border: 1px solid black ;
+    border-width: 10px;
+    border-radius: 15px;
+    padding-top:50px;
+    padding-left:70px;
+    padding-right:70px;
+    margin-left: 400px;
+}
+section{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKB7wpfI7H9iDKjseXhSx62H_zLji1gKgJFw&usqp=CAU");
+}
+#numberofpizza{
+    width: 100%;
+    padding: 5px;
+}
+#delivery,#pick,#checkout{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#checkout{
+    background-color: chocolate;
+}
+#contacts{
+    text-align: center;
+    background-color:rgb(105,105,105);
+    color: black;
+}
+#idk{
+    text-align: center;
+    color: white;
+  }
+  .location{
+    display: none;
+    background-color: black;
+    height:300px;
+    width:40%;
+    color:white;
+    text-align: center;
+    border: 1px solid black ;
+    border-width: 10px;
+    border-radius: 15px;
+    padding-top:30px;
+    padding-left:70px;
+    padding-right:70px;
+    margin-left: 400px;
+  }
+  
